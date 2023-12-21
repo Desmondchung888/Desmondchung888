@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Desmondchung888
-- 👀 I’m interested in coding in python and R
 - 🌱 I’m currently learning python
 
 <!---
