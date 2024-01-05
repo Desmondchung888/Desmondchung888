@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Desmondchung888
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m Desmond Chung
+- 🌱 I’m currently learning python and Java
 
 <!---
 Desmondchung888/Desmondchung888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
